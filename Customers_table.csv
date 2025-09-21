@@ -1,0 +1,151 @@
+CustomerID,Name,Age,Gender,Location,SignupDate,CustomerSegment
+C001,Andrea Whitney,39,Female,Pune,2024-06-18,New
+C002,Jackie Ferguson,20,Female,Pune,2021-12-07,Loyal
+C003,Christopher Martinez,24,Female,Bengaluru,2021-12-30,Loyal
+C004,Melissa Archer,25,Male,Chennai,2022-03-16,New
+C005,Jonathon Gomez,58,Male,Delhi,2022-02-02,At Risk
+C006,Mario Allison,24,Female,Bengaluru,2022-06-19,At Risk
+C007,Brandon Woods,63,Female,Chennai,2022-02-12,Loyal
+C008,Dana Charles,29,Female,Chennai,2023-05-05,New
+C009,Ruth Small,39,Female,Pune,2023-06-01,Loyal
+C010,Timothy Underwood,43,Female,Unknown,2024-12-15,New
+C011,Ashley Quinn,37,Male,Pune,2025-03-16,At Risk
+C012,Debra Branch,50,Female,Bengaluru,2023-12-29,At Risk
+C013,Mrs. Emily Wilson PhD,43,Female,Unknown,2024-08-19,Engaged
+C014,Andrew Gonzalez,25,Female,Bengaluru,2021-07-24,At Risk
+C015,Melissa Jones,18,Male,Delhi,2024-11-13,Engaged
+C016,Nicole Watkins,30,Male,Mumbai,2025-03-15,Loyal
+C017,Natalie Smith,53,Female,Chennai,2022-05-21,Loyal
+C018,Lindsay Walters,59,Male,Mumbai,2025-03-14,Engaged
+C019,Ethan Zimmerman,43,Female,Unknown,2023-06-20,At Risk
+C020,Paul Glover,43,Female,Unknown,2024-08-22,Loyal
+C021,Mark Smith,40,Male,Chennai,2024-04-24,At Risk
+C022,Savannah Fernandez,46,Female,Mumbai,2025-03-11,At Risk
+C023,Brandon Jordan,52,Male,Bengaluru,2024-05-18,Loyal
+C024,Dennis Garrison,18,Female,Delhi,2021-07-19,Loyal
+C025,Mr. David Cannon,24,Male,Mumbai,2024-04-23,At Risk
+C026,James Stephens,45,Male,Bengaluru,2024-11-25,At Risk
+C027,Monica King,29,Female,Hyderabad,2024-04-17,Engaged
+C028,Curtis Berger,42,Female,Hyderabad,2021-10-21,Loyal
+C029,Melinda Bass,39,Male,Mumbai,2022-08-08,At Risk
+C030,Juan Glass,36,Male,Bengaluru,2023-02-28,Loyal
+C031,Jessica Hicks,58,Female,Pune,2022-10-19,New
+C032,Cynthia Fletcher,43,Female,Unknown,2021-10-01,Engaged
+C033,Christina Carpenter,20,Male,Pune,2024-08-16,At Risk
+C034,Ashley Larsen,37,Female,Chennai,2022-10-03,New
+C035,Patrick Fletcher,63,Male,Pune,2021-01-05,Loyal
+C036,Charles Haynes,32,Male,Mumbai,2024-06-22,New
+C037,Beth Conway,43,Female,Unknown,2024-08-10,Engaged
+C038,Mark Smith,38,Male,Hyderabad,2021-05-27,Engaged
+C039,Erica Ramirez DVM,36,Female,Mumbai,2023-07-28,Engaged
+C040,Ashley Gomez,37,Male,Bengaluru,2025-02-18,Engaged
+C041,Heather Spencer,21,Male,Bengaluru,2024-06-20,At Risk
+C042,Jacqueline Rios,38,Female,Pune,2024-11-30,Engaged
+C043,Erin Jackson,20,Female,Bengaluru,2024-03-30,Loyal
+C044,Melanie Sanford,45,Female,Bengaluru,2023-11-03,New
+C045,Alexandra Michael,22,Female,Hyderabad,2022-03-16,New
+C046,Jeremy Hughes,43,Male,Pune,2024-11-10,New
+C047,Thomas Horton,47,Female,Pune,2021-04-11,New
+C048,Randy Brown,49,Female,Chennai,2024-10-17,At Risk
+C049,Joshua David,35,Male,Mumbai,2022-04-17,New
+C050,Steve Thornton,59,Male,Mumbai,2024-09-01,New
+C051,Terry Williams,60,Female,Mumbai,2022-03-06,Loyal
+C052,Anthony Li,46,Female,Hyderabad,2024-04-25,Engaged
+C053,Steven Taylor,55,Male,Delhi,2022-07-27,At Risk
+C054,Robert Rowe,47,Female,Chennai,2023-07-03,New
+C055,Patty Townsend,44,Male,Mumbai,2022-10-13,Engaged
+C056,Jacqueline Thompson,45,Male,Bengaluru,2021-10-30,Engaged
+C057,Felicia Lloyd,58,Female,Chennai,2024-10-14,Engaged
+C058,Shelley Grimes,30,Female,Delhi,2022-03-30,At Risk
+C059,Brett Smith,36,Male,Hyderabad,2021-02-06,New
+C060,Nicole Thomas,64,Male,Delhi,2021-11-26,At Risk
+C061,Robin Mathews,50,Male,Hyderabad,2023-04-09,Engaged
+C062,Garrett Chaney,53,Male,Mumbai,2025-01-08,Loyal
+C063,Nicole Foley,59,Female,Hyderabad,2023-02-06,New
+C064,Cathy Evans,61,Female,Delhi,2024-08-15,New
+C065,Derek Lee,43,Female,Unknown,2023-09-13,Engaged
+C066,Jordan Cooley,53,Female,Pune,2021-07-22,New
+C067,Christian Horne,18,Female,Chennai,2023-11-29,At Risk
+C068,Jermaine Johnson,18,Female,Delhi,2021-09-30,Engaged
+C069,Craig Thompson,43,Female,Unknown,2023-03-25,Engaged
+C070,Mr. Cody Dalton,19,Female,Hyderabad,2024-06-22,New
+C071,Vicki Charles,21,Female,Bengaluru,2021-07-17,New
+C072,Erin Beck,36,Male,Bengaluru,2022-04-03,Engaged
+C073,Samuel Guerra,58,Male,Chennai,2022-02-25,Engaged
+C074,Ashley Harris,43,Female,Unknown,2021-01-05,New
+C075,Kevin Wade,31,Male,Hyderabad,2023-10-19,New
+C076,Stephanie Huff,25,Female,Delhi,2022-03-01,At Risk
+C077,Sara Schultz,43,Female,Unknown,2024-02-27,Loyal
+C078,Jon Berg,64,Female,Chennai,2022-05-03,New
+C079,Ricky Austin,43,Female,Unknown,2025-04-05,Engaged
+C080,Megan Greer,39,Female,Bengaluru,2021-08-19,Loyal
+C081,Vanessa Mata,63,Female,Mumbai,2023-07-06,Loyal
+C082,Patricia Castillo,62,Female,Delhi,2021-07-31,Loyal
+C083,Andrew Washington,43,Female,Unknown,2023-05-29,New
+C084,Gregory Perez,45,Male,Delhi,2022-10-14,New
+C085,Debbie Moore,19,Female,Bengaluru,2023-12-06,At Risk
+C086,Joseph Morris,38,Female,Pune,2024-12-31,New
+C087,Mary Baldwin,35,Male,Hyderabad,2024-04-16,At Risk
+C088,Julia Thompson,55,Female,Pune,2023-04-06,Loyal
+C089,Stephanie Adkins,58,Male,Pune,2024-12-23,Engaged
+C090,Jessica Hughes,48,Female,Pune,2023-11-06,Engaged
+C091,Robert Gibbs,65,Male,Chennai,2021-09-30,New
+C092,Yvonne Pacheco,61,Female,Delhi,2024-04-05,New
+C093,Jordan Norris,33,Male,Bengaluru,2024-09-18,Engaged
+C094,Mrs. Jennifer Chambers MD,41,Male,Bengaluru,2023-01-11,Engaged
+C095,Kristin Gonzalez,56,Male,Pune,2023-09-10,Loyal
+C096,Susan Hudson,64,Female,Bengaluru,2023-10-27,New
+C097,David Miller DDS,64,Male,Delhi,2024-01-08,New
+C098,David Newman,23,Male,Bengaluru,2021-03-05,Engaged
+C099,Kelly Garcia,59,Male,Bengaluru,2024-11-06,New
+C100,Mr. Jason Vasquez,18,Female,Mumbai,2023-07-01,New
+C101,Melanie Winters,45,Male,Pune,2022-08-29,New
+C102,Ashley Carlson,36,Male,Chennai,2021-11-09,New
+C103,Richard Trujillo,50,Female,Pune,2023-09-24,Loyal
+C104,Stephanie Valdez,56,Female,Delhi,2024-09-17,Loyal
+C105,Donna Forbes,47,Female,Bengaluru,2021-09-07,New
+C106,Shawn Davis,58,Male,Chennai,2022-10-26,At Risk
+C107,Tara Sanders,52,Male,Delhi,2024-11-20,New
+C108,David Green,51,Female,Chennai,2025-02-01,Engaged
+C109,William Page,25,Female,Mumbai,2025-02-05,New
+C110,Mary Knox,23,Male,Hyderabad,2023-06-30,New
+C111,Jerry Taylor,43,Female,Unknown,2021-05-04,Engaged
+C112,Brad Diaz,40,Female,Bengaluru,2021-03-21,Loyal
+C113,Derek Saunders,24,Female,Bengaluru,2023-04-02,At Risk
+C114,Matthew Ross,18,Female,Delhi,2025-02-10,Loyal
+C115,Thomas Miller,56,Male,Mumbai,2024-08-21,New
+C116,Jennifer Hall,36,Male,Bengaluru,2025-01-13,Loyal
+C117,Kelsey Johnson,65,Male,Delhi,2024-05-29,New
+C118,Richard Pittman,24,Female,Mumbai,2021-06-11,Engaged
+C119,Mercedes Valdez,43,Female,Unknown,2022-02-02,New
+C120,Sarah Wall,54,Male,Delhi,2022-12-31,Loyal
+C121,Amy Castro,49,Male,Bengaluru,2023-02-10,At Risk
+C122,Marissa Richardson,65,Female,Pune,2023-10-10,Engaged
+C123,Adam Wright,58,Male,Bengaluru,2022-04-26,Engaged
+C124,Douglas Johnson,38,Male,Hyderabad,2024-12-30,Loyal
+C125,Brian Hall,65,Female,Mumbai,2024-01-16,At Risk
+C126,Joshua Leonard,22,Male,Mumbai,2022-07-20,Loyal
+C127,Jonathan Shah,31,Female,Mumbai,2025-01-07,Engaged
+C128,Jamie Hill,42,Female,Mumbai,2024-03-20,New
+C129,Mary Simmons,44,Female,Chennai,2024-03-13,Engaged
+C130,Jeffrey Williams,27,Female,Mumbai,2021-10-16,At Risk
+C131,Emily Wilson,43,Male,Mumbai,2021-04-02,New
+C132,Dylan Santiago,25,Male,Hyderabad,2024-05-08,Loyal
+C133,David Payne,43,Female,Delhi,2024-02-07,At Risk
+C134,Nathan Anderson,50,Female,Bengaluru,2024-06-02,New
+C135,Melanie Johnson,49,Female,Chennai,2022-01-28,At Risk
+C136,Amanda Walker,46,Female,Bengaluru,2021-04-12,Engaged
+C137,Arthur Chavez,61,Female,Chennai,2024-03-16,New
+C138,Loretta Davis,64,Female,Chennai,2021-02-20,Loyal
+C139,Olivia Gay,21,Male,Delhi,2022-06-26,Engaged
+C140,William Brown,41,Female,Chennai,2024-11-20,Engaged
+C141,Amber Vaughn,40,Male,Hyderabad,2024-10-18,New
+C142,Laura Evans,43,Female,Unknown,2024-11-29,New
+C143,Tamara Johnson,58,Female,Pune,2021-03-23,Engaged
+C144,Daniel Martinez,29,Female,Pune,2024-08-31,New
+C145,Michael Manning,22,Male,Hyderabad,2023-11-15,Engaged
+C146,Erin Gibbs,49,Male,Bengaluru,2022-07-24,Engaged
+C147,Kerry Gonzalez,23,Male,Bengaluru,2021-11-17,New
+C148,Abigail Sutton,36,Male,Chennai,2022-12-13,At Risk
+C149,Nicole Medina,58,Male,Hyderabad,2022-03-09,Loyal
+C150,Mark Hall,64,Female,Mumbai,2021-11-23,At Risk

@@ -1,0 +1,151 @@
+CustomerID,Name,Age,Gender,Location,SignupDate,TotalVisits,LastVisitDate,PreferredCategory,TotalOrders,TotalRevenue,AvgOrderValue,LastPurchaseDate,SupportTickets,SatisfactionScore,Churned,RFM_Score,CustomerSegment
+C001,Andrea Whitney,39,Female,Pune,06-18-2024,29,11-14-2024,Books,24,40154,1673.083333,11-01-2024,1,1,No,7,New
+C002,Jackie Ferguson,20,Female,Pune,12-07-2021,64,12-10-2024,Home Decor,23,168483,7325.347826,01-24-2025,4,5,No,7,Loyal
+C003,Christopher Martinez,24,Female,Bengaluru,12-30-2021,42,02-27-2023,Home Decor,23,193225,8401.086957,06-04-2025,4,1,No,8,Loyal
+C004,Melissa Archer,25,Male,Chennai,03-16-2022,12,11-01-2022,Fashion,10,22188,2218.8,08-23-2024,2,4,Yes,6,New
+C005,Jonathon Gomez,58,Male,Delhi,02-02-2022,52,02-28-2022,Electronics,16,182247,11390.4375,02-05-2024,2,3,No,7,At Risk
+C006,Mario Allison,24,Female,Bengaluru,06-19-2022,10,12-29-2022,Grocery,1,45466,45466,01-08-2023,4,2,No,5,At Risk
+C007,Brandon Woods,63,Female,Chennai,02-12-2022,86,11-12-2023,Books,13,17517,1347.461538,09-13-2022,4,3,No,6,Loyal
+C008,Dana Charles,29,Female,Chennai,05-05-2023,6,03-01-2025,Fashion,6,97956,16326,02-15-2025,1,4,No,6,New
+C009,Ruth Small,39,Female,Pune,06-01-2023,63,06-04-2025,Home Decor,20,106633,5331.65,06-25-2023,4,1,Yes,7,Loyal
+C010,Timothy Underwood,43,Female,Unknown,12-15-2024,14,01-11-2025,Fashion,14,106633,7616.642857,12-23-2024,0,3,No,7,New
+C011,Ashley Quinn,37,Male,Pune,03-16-2025,42,05-27-2025,Home Decor,23,176997,7695.521739,07-04-2025,0,2,Yes,9,At Risk
+C012,Debra Branch,50,Female,Bengaluru,12-29-2023,50,01-10-2024,Books,3,162538,54179.33333,12-26-2024,5,1,No,5,At Risk
+C013,Mrs. Emily Wilson PhD,43,Female,Unknown,08-19-2024,65,10-11-2024,Fashion,14,106633,7616.642857,03-24-2025,0,4,No,7,Engaged
+C014,Andrew Gonzalez,25,Female,Bengaluru,07-24-2021,92,11-22-2023,Books,7,159720,22817.14286,08-22-2023,2,3,No,6,At Risk
+C015,Melissa Jones,18,Male,Delhi,11-13-2024,44,01-03-2025,Books,7,192049,27435.57143,05-04-2025,5,1,No,7,Engaged
+C016,Nicole Watkins,30,Male,Mumbai,03-15-2025,41,04-01-2025,Fashion,6,135521,22586.83333,04-08-2025,2,3,No,6,Loyal
+C017,Natalie Smith,53,Female,Chennai,05-21-2022,18,06-12-2022,Books,20,79873,3993.65,05-17-2025,0,4,No,8,Loyal
+C018,Lindsay Walters,59,Male,Mumbai,03-14-2025,77,07-03-2025,Books,21,175142,8340.095238,06-13-2025,1,1,No,8,Engaged
+C019,Ethan Zimmerman,43,Female,Unknown,06-20-2023,25,12-07-2024,Books,14,106633,7616.642857,05-19-2024,0,5,No,5,At Risk
+C020,Paul Glover,43,Female,Unknown,08-22-2024,50,09-12-2024,Grocery,14,106633,7616.642857,01-17-2025,0,3,No,4,Loyal
+C021,Mark Smith,40,Male,Chennai,04-24-2024,23,06-19-2024,Fashion,14,146050,10432.14286,02-27-2025,2,1,No,7,At Risk
+C022,Savannah Fernandez,46,Female,Mumbai,03-11-2025,96,05-31-2025,Electronics,7,179925,25703.57143,03-21-2025,5,1,No,6,At Risk
+C023,Brandon Jordan,52,Male,Bengaluru,05-18-2024,67,08-27-2024,Electronics,6,105668,17611.33333,11-29-2024,5,4,No,6,Loyal
+C024,Dennis Garrison,18,Female,Delhi,07-19-2021,71,08-04-2023,Books,23,177316,7709.391304,10-13-2024,1,5,No,7,Loyal
+C025,Mr. David Cannon,24,Male,Mumbai,04-23-2024,92,08-08-2024,Fashion,9,110009,12223.22222,08-26-2024,0,2,Yes,6,At Risk
+C026,James Stephens,45,Male,Bengaluru,11-25-2024,45,06-17-2025,Grocery,8,94786,11848.25,07-01-2025,5,4,No,8,At Risk
+C027,Monica King,29,Female,Hyderabad,04-17-2024,17,09-09-2024,Grocery,19,98277,5172.473684,11-10-2024,5,3,No,7,Engaged
+C028,Curtis Berger,42,Female,Hyderabad,10-21-2021,57,03-24-2025,Books,14,25562,1825.857143,12-14-2022,3,2,No,7,Loyal
+C029,Melinda Bass,39,Male,Mumbai,08-08-2022,64,12-14-2022,Grocery,12,120143,10011.91667,11-29-2022,5,1,Yes,7,At Risk
+C030,Juan Glass,36,Male,Bengaluru,02-28-2023,45,04-21-2023,Electronics,18,36704,2039.111111,07-08-2023,4,2,No,7,Loyal
+C031,Jessica Hicks,58,Female,Pune,10-19-2022,10,04-03-2023,Fashion,10,160505,16050.5,02-03-2025,3,1,No,6,New
+C032,Cynthia Fletcher,43,Female,Unknown,10-01-2021,49,06-04-2024,Electronics,14,106633,7616.642857,11-07-2021,0,3,Yes,5,Engaged
+C033,Christina Carpenter,20,Male,Pune,08-16-2024,71,05-29-2025,Fashion,17,143555,8444.411765,09-10-2024,3,2,No,7,At Risk
+C034,Ashley Larsen,37,Female,Chennai,10-03-2022,56,02-26-2024,Home Decor,6,82882,13813.66667,11-07-2022,3,5,No,6,New
+C035,Patrick Fletcher,63,Male,Pune,01-05-2021,68,02-26-2025,Home Decor,21,68119,3243.761905,03-25-2025,3,5,No,7,Loyal
+C036,Charles Haynes,32,Male,Mumbai,06-22-2024,87,06-26-2025,Grocery,22,170974,7771.545455,03-26-2025,4,1,Yes,7,New
+C037,Beth Conway,43,Female,Unknown,08-10-2024,55,04-15-2025,Home Decor,14,106633,7616.642857,10-02-2024,0,2,No,6,Engaged
+C038,Mark Smith,38,Male,Hyderabad,05-27-2021,91,06-28-2022,Home Decor,25,38906,1556.24,08-05-2022,2,1,No,7,Engaged
+C039,Erica Ramirez DVM,36,Female,Mumbai,07-28-2023,74,05-07-2025,Electronics,23,182130,7918.695652,08-11-2023,3,3,No,7,Engaged
+C040,Ashley Gomez,37,Male,Bengaluru,02-18-2025,62,03-14-2025,Electronics,12,8965,747.0833333,05-14-2025,5,1,No,7,Engaged
+C041,Heather Spencer,21,Male,Bengaluru,06-20-2024,35,09-01-2024,Home Decor,13,144645,11126.53846,12-31-2024,3,1,No,7,At Risk
+C042,Jacqueline Rios,38,Female,Pune,11-30-2024,22,12-08-2024,Books,3,86853,28951,02-26-2025,4,5,Yes,5,Engaged
+C043,Erin Jackson,20,Female,Bengaluru,03-30-2024,65,06-07-2025,Grocery,14,29983,2141.642857,05-25-2024,4,2,No,7,Loyal
+C044,Melanie Sanford,45,Female,Bengaluru,11-03-2023,56,11-22-2023,Fashion,19,199954,10523.89474,03-06-2025,1,2,Yes,7,New
+C045,Alexandra Michael,22,Female,Hyderabad,03-16-2022,85,07-16-2024,Electronics,20,120958,6047.9,07-24-2023,1,3,No,7,New
+C046,Jeremy Hughes,43,Male,Pune,11-10-2024,84,04-11-2025,Grocery,12,57253,4771.083333,07-04-2025,1,2,No,9,New
+C047,Thomas Horton,47,Female,Pune,04-11-2021,96,05-20-2022,Home Decor,2,37282,18641,11-25-2022,5,3,No,5,New
+C048,Randy Brown,49,Female,Chennai,10-17-2024,66,04-21-2025,Grocery,25,69440,2777.6,03-02-2025,2,2,No,7,At Risk
+C049,Joshua David,35,Male,Mumbai,04-17-2022,79,11-19-2024,Home Decor,12,32486,2707.166667,05-05-2024,1,5,No,7,New
+C050,Steve Thornton,59,Male,Mumbai,09-01-2024,32,09-25-2024,Fashion,14,109640,7831.428571,05-15-2025,4,3,Yes,8,New
+C051,Terry Williams,60,Female,Mumbai,03-06-2022,71,07-26-2023,Books,19,84864,4466.526316,03-28-2025,3,3,No,7,Loyal
+C052,Anthony Li,46,Female,Hyderabad,04-25-2024,29,04-08-2025,Home Decor,17,152713,8983.117647,10-11-2024,4,1,Yes,7,Engaged
+C053,Steven Taylor,55,Male,Delhi,07-27-2022,5,10-01-2024,Fashion,9,71731,7970.111111,01-12-2025,2,3,No,6,At Risk
+C054,Robert Rowe,47,Female,Chennai,07-03-2023,79,02-14-2025,Books,4,145208,36302,06-10-2025,0,1,No,6,New
+C055,Patty Townsend,44,Male,Mumbai,10-13-2022,27,03-17-2024,Electronics,16,56942,3558.875,05-08-2023,4,2,No,7,Engaged
+C056,Jacqueline Thompson,45,Male,Bengaluru,10-30-2021,34,07-09-2024,Books,18,174969,9720.5,11-11-2023,4,5,No,7,Engaged
+C057,Felicia Lloyd,58,Female,Chennai,10-14-2024,42,06-18-2025,Books,8,149176,18647,05-10-2025,3,2,No,7,Engaged
+C058,Shelley Grimes,30,Female,Delhi,03-30-2022,30,02-14-2024,Home Decor,9,115917,12879.66667,03-22-2024,0,1,Yes,6,At Risk
+C059,Brett Smith,36,Male,Hyderabad,02-06-2021,11,01-30-2023,Books,19,69663,3666.473684,04-17-2024,1,1,No,7,New
+C060,Nicole Thomas,64,Male,Delhi,11-26-2021,22,10-30-2024,Electronics,5,151059,30211.8,03-13-2023,1,3,No,6,At Risk
+C061,Robin Mathews,50,Male,Hyderabad,04-09-2023,8,05-30-2025,Home Decor,17,40399,2376.411765,11-27-2024,5,5,No,7,Engaged
+C062,Garrett Chaney,53,Male,Mumbai,01-08-2025,33,07-16-2025,Grocery,6,59930,9988.333333,03-21-2025,1,3,Yes,6,Loyal
+C063,Nicole Foley,59,Female,Hyderabad,02-06-2023,84,09-17-2024,Home Decor,15,169095,11273,07-16-2025,3,5,No,9,New
+C064,Cathy Evans,61,Female,Delhi,08-15-2024,89,11-01-2024,Grocery,10,181855,18185.5,10-15-2024,2,1,No,6,New
+C065,Derek Lee,43,Female,Unknown,09-13-2023,66,05-22-2024,Electronics,14,106633,7616.642857,06-26-2025,0,5,No,8,Engaged
+C066,Jordan Cooley,53,Female,Pune,07-22-2021,9,08-12-2021,Fashion,11,98965,8996.818182,12-02-2024,4,1,Yes,7,New
+C067,Christian Horne,18,Female,Chennai,11-29-2023,36,03-17-2024,Fashion,9,170692,18965.77778,06-12-2024,4,3,Yes,6,At Risk
+C068,Jermaine Johnson,18,Female,Delhi,09-30-2021,71,05-09-2022,Grocery,9,85039,9448.777778,12-03-2021,5,3,No,6,Engaged
+C069,Craig Thompson,43,Female,Unknown,03-25-2023,15,02-16-2025,Grocery,14,106633,7616.642857,09-25-2024,0,4,No,7,Engaged
+C070,Mr. Cody Dalton,19,Female,Hyderabad,06-22-2024,77,12-07-2024,Fashion,18,160699,8927.722222,02-15-2025,3,5,Yes,7,New
+C071,Vicki Charles,21,Female,Bengaluru,07-17-2021,90,12-14-2024,Books,15,106304,7086.933333,01-16-2023,5,1,Yes,7,New
+C072,Erin Beck,36,Male,Bengaluru,04-03-2022,14,11-26-2023,Fashion,3,71696,23898.66667,11-10-2024,3,2,Yes,5,Engaged
+C073,Samuel Guerra,58,Male,Chennai,02-25-2022,8,10-10-2024,Home Decor,3,2320,773.3333333,07-29-2024,1,2,No,3,Engaged
+C074,Ashley Harris,43,Female,Unknown,01-05-2021,23,09-09-2024,Electronics,14,106633,7616.642857,02-05-2025,0,3,No,7,New
+C075,Kevin Wade,31,Male,Hyderabad,10-19-2023,64,04-27-2024,Grocery,5,27396,5479.2,01-24-2024,0,5,No,6,New
+C076,Stephanie Huff,25,Female,Delhi,03-01-2022,76,11-02-2024,Electronics,3,157396,52465.33333,06-24-2022,1,3,Yes,5,At Risk
+C077,Sara Schultz,43,Female,Unknown,02-27-2024,16,07-27-2024,Home Decor,14,106633,7616.642857,07-06-2024,0,4,No,7,Loyal
+C078,Jon Berg,64,Female,Chennai,05-03-2022,96,05-30-2022,Fashion,24,30995,1291.458333,05-01-2025,2,3,Yes,8,New
+C079,Ricky Austin,43,Female,Unknown,04-05-2025,45,06-25-2025,Grocery,14,106633,7616.642857,05-21-2025,0,1,No,8,Engaged
+C080,Megan Greer,39,Female,Bengaluru,08-19-2021,53,12-05-2021,Home Decor,3,87591,29197,02-12-2024,4,5,No,5,Loyal
+C081,Vanessa Mata,63,Female,Mumbai,07-06-2023,45,09-21-2024,Fashion,21,165840,7897.142857,04-09-2025,4,2,No,7,Loyal
+C082,Patricia Castillo,62,Female,Delhi,07-31-2021,46,03-21-2022,Grocery,18,146137,8118.722222,12-26-2024,4,3,No,7,Loyal
+C083,Andrew Washington,43,Female,Unknown,05-29-2023,38,12-05-2023,Grocery,14,106633,7616.642857,12-04-2024,0,2,No,6,New
+C084,Gregory Perez,45,Male,Delhi,10-14-2022,43,04-07-2023,Electronics,20,111625,5581.25,11-04-2022,4,1,No,7,New
+C085,Debbie Moore,19,Female,Bengaluru,12-06-2023,73,03-15-2025,Grocery,15,90713,6047.533333,08-14-2024,5,3,Yes,7,At Risk
+C086,Joseph Morris,38,Female,Pune,12-31-2024,11,04-09-2025,Books,11,30172,2742.909091,06-20-2025,0,5,No,8,New
+C087,Mary Baldwin,35,Male,Hyderabad,04-16-2024,53,01-03-2025,Home Decor,5,193683,38736.6,07-20-2024,1,2,No,6,At Risk
+C088,Julia Thompson,55,Female,Pune,04-06-2023,38,01-14-2024,Books,2,15394,7697,12-17-2023,0,3,Yes,4,Loyal
+C089,Stephanie Adkins,58,Male,Pune,12-23-2024,63,07-12-2025,Fashion,14,73360,5240,03-03-2025,4,4,Yes,7,Engaged
+C090,Jessica Hughes,48,Female,Pune,11-06-2023,83,09-18-2024,Home Decor,17,67341,3961.235294,03-06-2024,3,2,No,7,Engaged
+C091,Robert Gibbs,65,Male,Chennai,09-30-2021,50,11-28-2022,Electronics,5,132912,26582.4,08-13-2022,0,5,Yes,6,New
+C092,Yvonne Pacheco,61,Female,Delhi,04-05-2024,85,08-27-2024,Grocery,12,169092,14091,04-29-2024,2,1,Yes,7,New
+C093,Jordan Norris,33,Male,Bengaluru,09-18-2024,25,10-16-2024,Grocery,9,154711,17190.11111,02-26-2025,5,4,Yes,6,Engaged
+C094,Mrs. Jennifer Chambers MD,41,Male,Bengaluru,01-11-2023,66,12-21-2024,Home Decor,16,77946,4871.625,02-20-2025,0,2,Yes,7,Engaged
+C095,Kristin Gonzalez,56,Male,Pune,09-10-2023,50,08-05-2024,Books,20,128278,6413.9,07-14-2025,0,5,No,9,Loyal
+C096,Susan Hudson,64,Female,Bengaluru,10-27-2023,88,11-21-2023,Electronics,11,162059,14732.63636,07-15-2025,0,3,No,9,New
+C097,David Miller DDS,64,Male,Delhi,01-08-2024,33,05-22-2025,Books,16,92723,5795.1875,11-05-2024,1,3,No,7,New
+C098,David Newman,23,Male,Bengaluru,03-05-2021,86,01-31-2023,Fashion,19,12180,641.0526316,03-01-2023,3,3,Yes,6,Engaged
+C099,Kelly Garcia,59,Male,Bengaluru,11-06-2024,79,03-24-2025,Grocery,4,71811,17952.75,03-15-2025,5,5,Yes,5,New
+C100,Mr. Jason Vasquez,18,Female,Mumbai,07-01-2023,66,12-18-2024,Electronics,4,80241,20060.25,11-14-2023,2,1,Yes,5,New
+C101,Melanie Winters,45,Male,Pune,08-29-2022,30,05-16-2024,Books,3,185816,61938.66667,02-09-2024,5,5,Yes,5,New
+C102,Ashley Carlson,36,Male,Chennai,11-09-2021,33,10-09-2023,Books,14,100723,7194.5,09-21-2023,2,2,No,7,New
+C103,Richard Trujillo,50,Female,Pune,09-24-2023,82,07-14-2025,Books,21,118941,5663.857143,05-29-2024,4,1,No,7,Loyal
+C104,Stephanie Valdez,56,Female,Delhi,09-17-2024,18,02-23-2025,Books,2,184664,92332,11-16-2024,5,2,No,5,Loyal
+C105,Donna Forbes,47,Female,Bengaluru,09-07-2021,64,08-16-2022,Books,16,104203,6512.6875,02-27-2025,2,2,No,7,New
+C106,Shawn Davis,58,Male,Chennai,10-26-2022,29,12-25-2022,Electronics,4,143692,35923,01-07-2023,3,4,No,5,At Risk
+C107,Tara Sanders,52,Male,Delhi,11-20-2024,97,04-04-2025,Home Decor,9,2489,276.5555556,03-21-2025,1,2,Yes,4,New
+C108,David Green,51,Female,Chennai,02-01-2025,48,03-05-2025,Grocery,6,103931,17321.83333,06-09-2025,3,3,No,7,Engaged
+C109,William Page,25,Female,Mumbai,02-05-2025,9,03-08-2025,Fashion,18,73819,4101.055556,02-11-2025,5,5,Yes,7,New
+C110,Mary Knox,23,Male,Hyderabad,06-30-2023,87,06-28-2025,Books,14,199593,14256.64286,10-19-2024,2,2,Yes,7,New
+C111,Jerry Taylor,43,Female,Unknown,05-04-2021,12,08-31-2023,Grocery,14,106633,7616.642857,02-10-2023,0,4,Yes,6,Engaged
+C112,Brad Diaz,40,Female,Bengaluru,03-21-2021,79,09-20-2023,Electronics,7,29644,4234.857143,06-13-2025,2,2,No,7,Loyal
+C113,Derek Saunders,24,Female,Bengaluru,04-02-2023,47,01-04-2024,Grocery,18,93348,5186,04-09-2025,0,2,Yes,7,At Risk
+C114,Matthew Ross,18,Female,Delhi,02-10-2025,22,06-25-2025,Electronics,22,180474,8203.363636,04-13-2025,1,2,Yes,7,Loyal
+C115,Thomas Miller,56,Male,Mumbai,08-21-2024,53,11-05-2024,Books,9,130394,14488.22222,04-05-2025,0,2,No,6,New
+C116,Jennifer Hall,36,Male,Bengaluru,01-13-2025,73,06-27-2025,Electronics,12,176088,14674,02-14-2025,1,3,No,7,Loyal
+C117,Kelsey Johnson,65,Male,Delhi,05-29-2024,85,01-27-2025,Books,5,76447,15289.4,01-08-2025,2,1,Yes,6,New
+C118,Richard Pittman,24,Female,Mumbai,06-11-2021,55,10-25-2021,Grocery,25,10841,433.64,06-20-2023,2,3,No,6,Engaged
+C119,Mercedes Valdez,43,Female,Unknown,02-02-2022,40,12-28-2023,Home Decor,14,106633,7616.642857,12-11-2022,0,1,No,6,New
+C120,Sarah Wall,54,Male,Delhi,12-31-2022,18,08-17-2023,Grocery,9,118439,13159.88889,06-29-2025,0,5,No,8,Loyal
+C121,Amy Castro,49,Male,Bengaluru,02-10-2023,73,02-13-2024,Grocery,7,46139,6591.285714,04-03-2024,3,3,Yes,6,At Risk
+C122,Marissa Richardson,65,Female,Pune,10-10-2023,48,11-16-2023,Home Decor,18,155661,8647.833333,05-02-2024,1,2,No,7,Engaged
+C123,Adam Wright,58,Male,Bengaluru,04-26-2022,24,04-25-2024,Grocery,3,176309,58769.66667,04-25-2023,3,5,No,5,Engaged
+C124,Douglas Johnson,38,Male,Hyderabad,12-30-2024,91,02-01-2025,Fashion,10,40335,4033.5,01-22-2025,1,2,No,6,Loyal
+C125,Brian Hall,65,Female,Mumbai,01-16-2024,72,12-02-2024,Grocery,15,76424,5094.933333,10-30-2024,2,5,No,7,At Risk
+C126,Joshua Leonard,22,Male,Mumbai,07-20-2022,63,10-04-2022,Electronics,15,97326,6488.4,02-28-2024,1,2,No,7,Loyal
+C127,Jonathan Shah,31,Female,Mumbai,01-07-2025,85,06-25-2025,Home Decor,19,90673,4772.263158,03-29-2025,1,2,No,7,Engaged
+C128,Jamie Hill,42,Female,Mumbai,03-20-2024,58,07-20-2024,Grocery,22,7341,333.6818182,01-21-2025,5,1,Yes,6,New
+C129,Mary Simmons,44,Female,Chennai,03-13-2024,36,09-30-2024,Fashion,21,110151,5245.285714,09-05-2024,2,3,Yes,7,Engaged
+C130,Jeffrey Williams,27,Female,Mumbai,10-16-2021,52,11-18-2022,Books,18,157644,8758,12-18-2023,1,4,No,7,At Risk
+C131,Emily Wilson,43,Male,Mumbai,04-02-2021,8,05-22-2022,Grocery,16,10242,640.125,06-29-2025,4,2,No,8,New
+C132,Dylan Santiago,25,Male,Hyderabad,05-08-2024,95,07-28-2024,Books,20,50471,2523.55,06-15-2024,3,5,Yes,7,Loyal
+C133,David Payne,43,Female,Delhi,02-07-2024,96,01-05-2025,Grocery,21,36159,1721.857143,07-28-2024,4,1,Yes,7,At Risk
+C134,Nathan Anderson,50,Female,Bengaluru,06-02-2024,86,09-09-2024,Fashion,5,181158,36231.6,02-03-2025,3,5,Yes,6,New
+C135,Melanie Johnson,49,Female,Chennai,01-28-2022,51,04-25-2023,Electronics,23,132893,5777.956522,10-28-2022,5,4,No,7,At Risk
+C136,Amanda Walker,46,Female,Bengaluru,04-12-2021,40,08-27-2023,Books,21,167105,7957.380952,06-13-2023,5,3,No,7,Engaged
+C137,Arthur Chavez,61,Female,Chennai,03-16-2024,11,02-14-2025,Fashion,25,29869,1194.76,04-30-2024,4,1,Yes,7,New
+C138,Loretta Davis,64,Female,Chennai,02-20-2021,50,11-06-2024,Fashion,11,94822,8620.181818,03-17-2023,1,4,Yes,7,Loyal
+C139,Olivia Gay,21,Male,Delhi,06-26-2022,40,03-02-2023,Books,14,159008,11357.71429,07-16-2024,4,1,No,7,Engaged
+C140,William Brown,41,Female,Chennai,11-20-2024,59,04-18-2025,Grocery,8,179184,22398,07-02-2025,1,2,No,8,Engaged
+C141,Amber Vaughn,40,Male,Hyderabad,10-18-2024,31,04-12-2025,Home Decor,21,124291,5918.619048,12-19-2024,2,3,Yes,7,New
+C142,Laura Evans,43,Female,Unknown,11-29-2024,33,06-22-2025,Home Decor,14,106633,7616.642857,05-18-2025,0,1,No,8,New
+C143,Tamara Johnson,58,Female,Pune,03-23-2021,7,01-12-2025,Grocery,20,123713,6185.65,05-14-2021,5,2,Yes,7,Engaged
+C144,Daniel Martinez,29,Female,Pune,08-31-2024,85,10-12-2024,Electronics,25,189107,7564.28,12-20-2024,0,5,No,7,New
+C145,Michael Manning,22,Male,Hyderabad,11-15-2023,23,07-31-2024,Home Decor,12,150306,12525.5,08-16-2024,3,5,Yes,7,Engaged
+C146,Erin Gibbs,49,Male,Bengaluru,07-24-2022,81,06-05-2023,Home Decor,18,55200,3066.666667,05-10-2025,1,2,Yes,8,Engaged
+C147,Kerry Gonzalez,23,Male,Bengaluru,11-17-2021,82,08-12-2024,Electronics,4,197516,49379,07-28-2023,0,3,No,5,New
+C148,Abigail Sutton,36,Male,Chennai,12-13-2022,61,05-06-2023,Home Decor,12,126760,10563.33333,06-20-2023,3,4,No,7,At Risk
+C149,Nicole Medina,58,Male,Hyderabad,03-09-2022,90,06-05-2024,Electronics,12,189608,15800.66667,12-18-2024,1,3,No,7,Loyal
+C150,Mark Hall,64,Female,Mumbai,11-23-2021,82,09-27-2022,Books,24,45847,1910.291667,04-26-2025,4,4,No,8,At Risk

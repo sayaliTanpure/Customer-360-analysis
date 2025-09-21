@@ -1,0 +1,151 @@
+CustomerID,Name,Age,Gender,Location,SignupDate,TotalVisits,LastVisitDate,PreferredCategory,TotalOrders,TotalRevenue,AvgOrderValue,LastPurchaseDate,SupportTickets,SatisfactionScore,Churned,RFM_Score,CustomerSegment
+C001,Andrea Whitney,39.0,Female,Pune,2024-06-18,29.0,2024-11-14,Books,24.0,40154.0,1673.08,2024-11-01,1.0,1.0,No,7,New
+C002,Jackie Ferguson,20.0,Female,Pune,2021-12-07,64.0,2024-12-10,Home Decor,23.0,168483.0,7325.35,2025-01-24,4.0,5.0,No,7,Loyal
+C003,Christopher Martinez,24.0,Female,Bengaluru,2021-12-30,42.0,2023-02-27,Home Decor,23.0,193225.0,8401.09,2025-06-04,4.0,1.0,No,8,Loyal
+C004,Melissa Archer,25.0,Male,Chennai,2022-03-16,12.0,2022-11-01,Fashion,10.0,22188.0,2218.8,2024-08-23,2.0,4.0,Yes,6,New
+C005,Jonathon Gomez,58.0,Male,Delhi,2022-02-02,52.0,2022-02-28,Electronics,16.0,182247.0,11390.44,2024-02-05,2.0,3.0,No,7,At Risk
+C006,Mario Allison,24.0,Female,Bengaluru,2022-06-19,10.0,2022-12-29,Grocery,1.0,45466.0,45466.0,2023-01-08,4.0,2.0,No,5,At Risk
+C007,Brandon Woods,63.0,Female,Chennai,2022-02-12,86.0,2023-11-12,Books,13.0,17517.0,1347.46,2022-09-13,4.0,3.0,No,6,Loyal
+C008,Dana Charles,29.0,Female,Chennai,2023-05-05,6.0,2025-03-01,Fashion,6.0,97956.0,16326.0,2025-02-15,1.0,4.0,No,6,New
+C009,Ruth Small,39.0,Female,Pune,2023-06-01,63.0,2025-06-04,Home Decor,20.0,106633.0,5331.65,2023-06-25,4.0,1.0,Yes,7,Loyal
+C010,Timothy Underwood,,,,2024-12-15,,2025-01-11,Fashion,,,,2024-12-23,,,No,7,New
+C011,Ashley Quinn,37.0,Male,Pune,2025-03-16,42.0,2025-05-27,Home Decor,23.0,176997.0,7695.52,2025-07-04,0.0,2.0,Yes,9,At Risk
+C012,Debra Branch,50.0,Female,Bengaluru,2023-12-29,50.0,2024-01-10,Books,3.0,162538.0,54179.33,2024-12-26,5.0,1.0,No,5,At Risk
+C013,Mrs. Emily Wilson PhD,,,,2024-08-19,,2024-10-11,Fashion,,,,2025-03-24,,,No,7,Engaged
+C014,Andrew Gonzalez,25.0,Female,Bengaluru,2021-07-24,92.0,2023-11-22,Books,7.0,159720.0,22817.14,2023-08-22,2.0,3.0,No,6,At Risk
+C015,Melissa Jones,18.0,Male,Delhi,2024-11-13,44.0,2025-01-03,Books,7.0,192049.0,27435.57,2025-05-04,5.0,1.0,No,7,Engaged
+C016,Nicole Watkins,30.0,Male,Mumbai,2025-03-15,41.0,2025-04-01,Fashion,6.0,135521.0,22586.83,2025-04-08,2.0,3.0,No,6,Loyal
+C017,Natalie Smith,53.0,Female,Chennai,2022-05-21,18.0,2022-06-12,Books,20.0,79873.0,3993.65,2025-05-17,0.0,4.0,No,8,Loyal
+C018,Lindsay Walters,59.0,Male,Mumbai,2025-03-14,77.0,2025-07-03,Books,21.0,175142.0,8340.1,2025-06-13,1.0,1.0,No,8,Engaged
+C019,Ethan Zimmerman,,,,2023-06-20,,2024-12-07,Books,,,,2024-05-19,,,No,5,At Risk
+C020,Paul Glover,,,,2024-08-22,,2024-09-12,Grocery,,,,2025-01-17,,,No,4,Loyal
+C021,Mark Smith,40.0,Male,Chennai,2024-04-24,23.0,2024-06-19,Fashion,14.0,146050.0,10432.14,2025-02-27,2.0,1.0,No,7,At Risk
+C022,Savannah Fernandez,46.0,Female,Mumbai,2025-03-11,96.0,2025-05-31,Electronics,7.0,179925.0,25703.57,2025-03-21,5.0,1.0,No,6,At Risk
+C023,Brandon Jordan,52.0,Male,Bengaluru,2024-05-18,67.0,2024-08-27,Electronics,6.0,105668.0,17611.33,2024-11-29,5.0,4.0,No,6,Loyal
+C024,Dennis Garrison,18.0,Female,Delhi,2021-07-19,71.0,2023-08-04,Books,23.0,177316.0,7709.39,2024-10-13,1.0,5.0,No,7,Loyal
+C025,Mr. David Cannon,24.0,Male,Mumbai,2024-04-23,92.0,2024-08-08,Fashion,9.0,110009.0,12223.22,2024-08-26,0.0,2.0,Yes,6,At Risk
+C026,James Stephens,45.0,Male,Bengaluru,2024-11-25,45.0,2025-06-17,Grocery,8.0,94786.0,11848.25,2025-07-01,5.0,4.0,No,8,At Risk
+C027,Monica King,29.0,Female,Hyderabad,2024-04-17,17.0,2024-09-09,Grocery,19.0,98277.0,5172.47,2024-11-10,5.0,3.0,No,7,Engaged
+C028,Curtis Berger,42.0,Female,Hyderabad,2021-10-21,57.0,2025-03-24,Books,14.0,25562.0,1825.86,2022-12-14,3.0,2.0,No,7,Loyal
+C029,Melinda Bass,39.0,Male,Mumbai,2022-08-08,64.0,2022-12-14,Grocery,12.0,120143.0,10011.92,2022-11-29,5.0,1.0,Yes,7,At Risk
+C030,Juan Glass,36.0,Male,Bengaluru,2023-02-28,45.0,2023-04-21,Electronics,18.0,36704.0,2039.11,2023-07-08,4.0,2.0,No,7,Loyal
+C031,Jessica Hicks,58.0,Female,Pune,2022-10-19,10.0,2023-04-03,Fashion,10.0,160505.0,16050.5,2025-02-03,3.0,1.0,No,6,New
+C032,Cynthia Fletcher,,,,2021-10-01,,2024-06-04,Electronics,,,,2021-11-07,,,Yes,5,Engaged
+C033,Christina Carpenter,20.0,Male,Pune,2024-08-16,71.0,2025-05-29,Fashion,17.0,143555.0,8444.41,2024-09-10,3.0,2.0,No,7,At Risk
+C034,Ashley Larsen,37.0,Female,Chennai,2022-10-03,56.0,2024-02-26,Home Decor,6.0,82882.0,13813.67,2022-11-07,3.0,5.0,No,6,New
+C035,Patrick Fletcher,63.0,Male,Pune,2021-01-05,68.0,2025-02-26,Home Decor,21.0,68119.0,3243.76,2025-03-25,3.0,5.0,No,7,Loyal
+C036,Charles Haynes,32.0,Male,Mumbai,2024-06-22,87.0,2025-06-26,Grocery,22.0,170974.0,7771.55,2025-03-26,4.0,1.0,Yes,7,New
+C037,Beth Conway,,,,2024-08-10,,2025-04-15,Home Decor,,,,2024-10-02,,,No,6,Engaged
+C038,Mark Smith,38.0,Male,Hyderabad,2021-05-27,91.0,2022-06-28,Home Decor,25.0,38906.0,1556.24,2022-08-05,2.0,1.0,No,7,Engaged
+C039,Erica Ramirez DVM,36.0,Female,Mumbai,2023-07-28,74.0,2025-05-07,Electronics,23.0,182130.0,7918.7,2023-08-11,3.0,3.0,No,7,Engaged
+C040,Ashley Gomez,37.0,Male,Bengaluru,2025-02-18,62.0,2025-03-14,Electronics,12.0,8965.0,747.08,2025-05-14,5.0,1.0,No,7,Engaged
+C041,Heather Spencer,21.0,Male,Bengaluru,2024-06-20,35.0,2024-09-01,Home Decor,13.0,144645.0,11126.54,2024-12-31,3.0,1.0,No,7,At Risk
+C042,Jacqueline Rios,38.0,Female,Pune,2024-11-30,22.0,2024-12-08,Books,3.0,86853.0,28951.0,2025-02-26,4.0,5.0,Yes,5,Engaged
+C043,Erin Jackson,20.0,Female,Bengaluru,2024-03-30,65.0,2025-06-07,Grocery,14.0,29983.0,2141.64,2024-05-25,4.0,2.0,No,7,Loyal
+C044,Melanie Sanford,45.0,Female,Bengaluru,2023-11-03,56.0,2023-11-22,Fashion,19.0,199954.0,10523.89,2025-03-06,1.0,2.0,Yes,7,New
+C045,Alexandra Michael,22.0,Female,Hyderabad,2022-03-16,85.0,2024-07-16,Electronics,20.0,120958.0,6047.9,2023-07-24,1.0,3.0,No,7,New
+C046,Jeremy Hughes,43.0,Male,Pune,2024-11-10,84.0,2025-04-11,Grocery,12.0,57253.0,4771.08,2025-07-04,1.0,2.0,No,9,New
+C047,Thomas Horton,47.0,Female,Pune,2021-04-11,96.0,2022-05-20,Home Decor,2.0,37282.0,18641.0,2022-11-25,5.0,3.0,No,5,New
+C048,Randy Brown,49.0,Female,Chennai,2024-10-17,66.0,2025-04-21,Grocery,25.0,69440.0,2777.6,2025-03-02,2.0,2.0,No,7,At Risk
+C049,Joshua David,35.0,Male,Mumbai,2022-04-17,79.0,2024-11-19,Home Decor,12.0,32486.0,2707.17,2024-05-05,1.0,5.0,No,7,New
+C050,Steve Thornton,59.0,Male,Mumbai,2024-09-01,32.0,2024-09-25,Fashion,14.0,109640.0,7831.43,2025-05-15,4.0,3.0,Yes,8,New
+C051,Terry Williams,60.0,Female,Mumbai,2022-03-06,71.0,2023-07-26,Books,19.0,84864.0,4466.53,2025-03-28,3.0,3.0,No,7,Loyal
+C052,Anthony Li,46.0,Female,Hyderabad,2024-04-25,29.0,2025-04-08,Home Decor,17.0,152713.0,8983.12,2024-10-11,4.0,1.0,Yes,7,Engaged
+C053,Steven Taylor,55.0,Male,Delhi,2022-07-27,5.0,2024-10-01,Fashion,9.0,71731.0,7970.11,2025-01-12,2.0,3.0,No,6,At Risk
+C054,Robert Rowe,47.0,Female,Chennai,2023-07-03,79.0,2025-02-14,Books,4.0,145208.0,36302.0,2025-06-10,0.0,1.0,No,6,New
+C055,Patty Townsend,44.0,Male,Mumbai,2022-10-13,27.0,2024-03-17,Electronics,16.0,56942.0,3558.88,2023-05-08,4.0,2.0,No,7,Engaged
+C056,Jacqueline Thompson,45.0,Male,Bengaluru,2021-10-30,34.0,2024-07-09,Books,18.0,174969.0,9720.5,2023-11-11,4.0,5.0,No,7,Engaged
+C057,Felicia Lloyd,58.0,Female,Chennai,2024-10-14,42.0,2025-06-18,Books,8.0,149176.0,18647.0,2025-05-10,3.0,2.0,No,7,Engaged
+C058,Shelley Grimes,30.0,Female,Delhi,2022-03-30,30.0,2024-02-14,Home Decor,9.0,115917.0,12879.67,2024-03-22,0.0,1.0,Yes,6,At Risk
+C059,Brett Smith,36.0,Male,Hyderabad,2021-02-06,11.0,2023-01-30,Books,19.0,69663.0,3666.47,2024-04-17,1.0,1.0,No,7,New
+C060,Nicole Thomas,64.0,Male,Delhi,2021-11-26,22.0,2024-10-30,Electronics,5.0,151059.0,30211.8,2023-03-13,1.0,3.0,No,6,At Risk
+C061,Robin Mathews,50.0,Male,Hyderabad,2023-04-09,8.0,2025-05-30,Home Decor,17.0,40399.0,2376.41,2024-11-27,5.0,5.0,No,7,Engaged
+C062,Garrett Chaney,53.0,Male,Mumbai,2025-01-08,33.0,2025-07-16,Grocery,6.0,59930.0,9988.33,2025-03-21,1.0,3.0,Yes,6,Loyal
+C063,Nicole Foley,59.0,Female,Hyderabad,2023-02-06,84.0,2024-09-17,Home Decor,15.0,169095.0,11273.0,2025-07-16,3.0,5.0,No,9,New
+C064,Cathy Evans,61.0,Female,Delhi,2024-08-15,89.0,2024-11-01,Grocery,10.0,181855.0,18185.5,2024-10-15,2.0,1.0,No,6,New
+C065,Derek Lee,,,,2023-09-13,,2024-05-22,Electronics,,,,2025-06-26,,,No,8,Engaged
+C066,Jordan Cooley,53.0,Female,Pune,2021-07-22,9.0,2021-08-12,Fashion,11.0,98965.0,8996.82,2024-12-02,4.0,1.0,Yes,7,New
+C067,Christian Horne,18.0,Female,Chennai,2023-11-29,36.0,2024-03-17,Fashion,9.0,170692.0,18965.78,2024-06-12,4.0,3.0,Yes,6,At Risk
+C068,Jermaine Johnson,18.0,Female,Delhi,2021-09-30,71.0,2022-05-09,Grocery,9.0,85039.0,9448.78,2021-12-03,5.0,3.0,No,6,Engaged
+C069,Craig Thompson,,,,2023-03-25,,2025-02-16,Grocery,,,,2024-09-25,,,No,7,Engaged
+C070,Mr. Cody Dalton,19.0,Female,Hyderabad,2024-06-22,77.0,2024-12-07,Fashion,18.0,160699.0,8927.72,2025-02-15,3.0,5.0,Yes,7,New
+C071,Vicki Charles,21.0,Female,Bengaluru,2021-07-17,90.0,2024-12-14,Books,15.0,106304.0,7086.93,2023-01-16,5.0,1.0,Yes,7,New
+C072,Erin Beck,36.0,Male,Bengaluru,2022-04-03,14.0,2023-11-26,Fashion,3.0,71696.0,23898.67,2024-11-10,3.0,2.0,Yes,5,Engaged
+C073,Samuel Guerra,58.0,Male,Chennai,2022-02-25,8.0,2024-10-10,Home Decor,3.0,2320.0,773.33,2024-07-29,1.0,2.0,No,3,Engaged
+C074,Ashley Harris,,,,2021-01-05,,2024-09-09,Electronics,,,,2025-02-05,,,No,7,New
+C075,Kevin Wade,31.0,Male,Hyderabad,2023-10-19,64.0,2024-04-27,Grocery,5.0,27396.0,5479.2,2024-01-24,0.0,5.0,No,6,New
+C076,Stephanie Huff,25.0,Female,Delhi,2022-03-01,76.0,2024-11-02,Electronics,3.0,157396.0,52465.33,2022-06-24,1.0,2.0,Yes,5,At Risk
+C077,Sara Schultz,,,,2024-02-27,,2024-07-27,Home Decor,,,,2024-07-06,,,No,7,Loyal
+C078,Jon Berg,64.0,Female,Chennai,2022-05-03,96.0,2022-05-30,Fashion,24.0,30995.0,1291.46,2025-05-01,2.0,3.0,Yes,8,New
+C079,Ricky Austin,,,,2025-04-05,,2025-06-25,Grocery,,,,2025-05-21,,,No,8,Engaged
+C080,Megan Greer,39.0,Female,Bengaluru,2021-08-19,53.0,2021-12-05,Home Decor,3.0,87591.0,29197.0,2024-02-12,4.0,5.0,No,5,Loyal
+C081,Vanessa Mata,63.0,Female,Mumbai,2023-07-06,45.0,2024-09-21,Fashion,21.0,165840.0,7897.14,2025-04-09,4.0,2.0,No,7,Loyal
+C082,Patricia Castillo,62.0,Female,Delhi,2021-07-31,46.0,2022-03-21,Grocery,18.0,146137.0,8118.72,2024-12-26,4.0,3.0,No,7,Loyal
+C083,Andrew Washington,,,,2023-05-29,,2023-12-05,Grocery,,,,2024-12-04,,,No,6,New
+C084,Gregory Perez,45.0,Male,Delhi,2022-10-14,43.0,2023-04-07,Electronics,20.0,111625.0,5581.25,2022-11-04,4.0,1.0,No,7,New
+C085,Debbie Moore,19.0,Female,Bengaluru,2023-12-06,73.0,2025-03-15,Grocery,15.0,90713.0,6047.53,2024-08-14,5.0,3.0,Yes,7,At Risk
+C086,Joseph Morris,38.0,Female,Pune,2024-12-31,11.0,2025-04-09,Books,11.0,30172.0,2742.91,2025-06-20,0.0,5.0,No,8,New
+C087,Mary Baldwin,35.0,Male,Hyderabad,2024-04-16,53.0,2025-01-03,Home Decor,5.0,193683.0,38736.6,2024-07-20,1.0,2.0,No,6,At Risk
+C088,Julia Thompson,55.0,Female,Pune,2023-04-06,38.0,2024-01-14,Books,2.0,15394.0,7697.0,2023-12-17,0.0,3.0,Yes,4,Loyal
+C089,Stephanie Adkins,58.0,Male,Pune,2024-12-23,63.0,2025-07-12,Fashion,14.0,73360.0,5240.0,2025-03-03,4.0,4.0,Yes,7,Engaged
+C090,Jessica Hughes,48.0,Female,Pune,2023-11-06,83.0,2024-09-18,Home Decor,17.0,67341.0,3961.24,2024-03-06,3.0,2.0,No,7,Engaged
+C091,Robert Gibbs,65.0,Male,Chennai,2021-09-30,50.0,2022-11-28,Electronics,5.0,132912.0,26582.4,2022-08-13,0.0,5.0,Yes,6,New
+C092,Yvonne Pacheco,61.0,Female,Delhi,2024-04-05,85.0,2024-08-27,Grocery,12.0,169092.0,14091.0,2024-04-29,2.0,1.0,Yes,7,New
+C093,Jordan Norris,33.0,Male,Bengaluru,2024-09-18,25.0,2024-10-16,Grocery,9.0,154711.0,17190.11,2025-02-26,5.0,4.0,Yes,6,Engaged
+C094,Mrs. Jennifer Chambers MD,41.0,Male,Bengaluru,2023-01-11,66.0,2024-12-21,Home Decor,16.0,77946.0,4871.62,2025-02-20,0.0,2.0,Yes,7,Engaged
+C095,Kristin Gonzalez,56.0,Male,Pune,2023-09-10,50.0,2024-08-05,Books,20.0,128278.0,6413.9,2025-07-14,0.0,5.0,No,9,Loyal
+C096,Susan Hudson,64.0,Female,Bengaluru,2023-10-27,88.0,2023-11-21,Electronics,11.0,162059.0,14732.64,2025-07-15,0.0,3.0,No,9,New
+C097,David Miller DDS,64.0,Male,Delhi,2024-01-08,33.0,2025-05-22,Books,16.0,92723.0,5795.19,2024-11-05,1.0,3.0,No,7,New
+C098,David Newman,23.0,Male,Bengaluru,2021-03-05,86.0,2023-01-31,Fashion,19.0,12180.0,641.05,2023-03-01,3.0,3.0,Yes,6,Engaged
+C099,Kelly Garcia,59.0,Male,Bengaluru,2024-11-06,79.0,2025-03-24,Grocery,4.0,71811.0,17952.75,2025-03-15,5.0,5.0,Yes,5,New
+C100,Mr. Jason Vasquez,18.0,Female,Mumbai,2023-07-01,66.0,2024-12-18,Electronics,4.0,80241.0,20060.25,2023-11-14,2.0,1.0,Yes,5,New
+C101,Melanie Winters,45.0,Male,Pune,2022-08-29,30.0,2024-05-16,Books,3.0,185816.0,61938.67,2024-02-09,5.0,5.0,Yes,5,New
+C102,Ashley Carlson,36.0,Male,Chennai,2021-11-09,33.0,2023-10-09,Books,14.0,100723.0,7194.5,2023-09-21,2.0,2.0,No,7,New
+C103,Richard Trujillo,50.0,Female,Pune,2023-09-24,82.0,2025-07-14,Books,21.0,118941.0,5663.86,2024-05-29,4.0,1.0,No,7,Loyal
+C104,Stephanie Valdez,56.0,Female,Delhi,2024-09-17,18.0,2025-02-23,Books,2.0,184664.0,92332.0,2024-11-16,5.0,2.0,No,5,Loyal
+C105,Donna Forbes,47.0,Female,Bengaluru,2021-09-07,64.0,2022-08-16,Books,16.0,104203.0,6512.69,2025-02-27,2.0,2.0,No,7,New
+C106,Shawn Davis,58.0,Male,Chennai,2022-10-26,29.0,2022-12-25,Electronics,4.0,143692.0,35923.0,2023-01-07,3.0,4.0,No,5,At Risk
+C107,Tara Sanders,52.0,Male,Delhi,2024-11-20,97.0,2025-04-04,Home Decor,9.0,2489.0,276.56,2025-03-21,1.0,2.0,Yes,4,New
+C108,David Green,51.0,Female,Chennai,2025-02-01,48.0,2025-03-05,Grocery,6.0,103931.0,17321.83,2025-06-09,3.0,3.0,No,7,Engaged
+C109,William Page,25.0,Female,Mumbai,2025-02-05,9.0,2025-03-08,Fashion,18.0,73819.0,4101.06,2025-02-11,5.0,5.0,Yes,7,New
+C110,Mary Knox,23.0,Male,Hyderabad,2023-06-30,87.0,2025-06-28,Books,14.0,199593.0,14256.64,2024-10-19,2.0,2.0,Yes,7,New
+C111,Jerry Taylor,,,,2021-05-04,,2023-08-31,Grocery,,,,2023-02-10,,,Yes,6,Engaged
+C112,Brad Diaz,40.0,Female,Bengaluru,2021-03-21,79.0,2023-09-20,Electronics,7.0,29644.0,4234.86,2025-06-13,2.0,2.0,No,7,Loyal
+C113,Derek Saunders,24.0,Female,Bengaluru,2023-04-02,47.0,2024-01-04,Grocery,18.0,93348.0,5186.0,2025-04-09,0.0,2.0,Yes,7,At Risk
+C114,Matthew Ross,18.0,Female,Delhi,2025-02-10,22.0,2025-06-25,Electronics,22.0,180474.0,8203.36,2025-04-13,1.0,2.0,Yes,7,Loyal
+C115,Thomas Miller,56.0,Male,Mumbai,2024-08-21,53.0,2024-11-05,Books,9.0,130394.0,14488.22,2025-04-05,0.0,2.0,No,6,New
+C116,Jennifer Hall,36.0,Male,Bengaluru,2025-01-13,73.0,2025-06-27,Electronics,12.0,176088.0,14674.0,2025-02-14,1.0,3.0,No,7,Loyal
+C117,Kelsey Johnson,65.0,Male,Delhi,2024-05-29,85.0,2025-01-27,Books,5.0,76447.0,15289.4,2025-01-08,2.0,1.0,Yes,6,New
+C118,Richard Pittman,24.0,Female,Mumbai,2021-06-11,55.0,2021-10-25,Grocery,25.0,10841.0,433.64,2023-06-20,2.0,3.0,No,6,Engaged
+C119,Mercedes Valdez,,,,2022-02-02,,2023-12-28,Home Decor,,,,2022-12-11,,,No,6,New
+C120,Sarah Wall,54.0,Male,Delhi,2022-12-31,18.0,2023-08-17,Grocery,9.0,118439.0,13159.89,2025-06-29,0.0,5.0,No,8,Loyal
+C121,Amy Castro,49.0,Male,Bengaluru,2023-02-10,73.0,2024-02-13,Grocery,7.0,46139.0,6591.29,2024-04-03,3.0,3.0,Yes,6,At Risk
+C122,Marissa Richardson,65.0,Female,Pune,2023-10-10,48.0,2023-11-16,Home Decor,18.0,155661.0,8647.83,2024-05-02,1.0,2.0,No,7,Engaged
+C123,Adam Wright,58.0,Male,Bengaluru,2022-04-26,24.0,2024-04-25,Grocery,3.0,176309.0,58769.67,2023-04-25,3.0,5.0,No,5,Engaged
+C124,Douglas Johnson,38.0,Male,Hyderabad,2024-12-30,91.0,2025-02-01,Fashion,10.0,40335.0,4033.5,2025-01-22,1.0,2.0,No,6,Loyal
+C125,Brian Hall,65.0,Female,Mumbai,2024-01-16,72.0,2024-12-02,Grocery,15.0,76424.0,5094.93,2024-10-30,2.0,5.0,No,7,At Risk
+C126,Joshua Leonard,22.0,Male,Mumbai,2022-07-20,63.0,2022-10-04,Electronics,15.0,97326.0,6488.4,2024-02-28,1.0,2.0,No,7,Loyal
+C127,Jonathan Shah,31.0,Female,Mumbai,2025-01-07,85.0,2025-06-25,Home Decor,19.0,90673.0,4772.26,2025-03-29,1.0,2.0,No,7,Engaged
+C128,Jamie Hill,42.0,Female,Mumbai,2024-03-20,58.0,2024-07-20,Grocery,22.0,7341.0,333.68,2025-01-21,5.0,1.0,Yes,6,New
+C129,Mary Simmons,44.0,Female,Chennai,2024-03-13,36.0,2024-09-30,Fashion,21.0,110151.0,5245.29,2024-09-05,2.0,3.0,Yes,7,Engaged
+C130,Jeffrey Williams,27.0,Female,Mumbai,2021-10-16,52.0,2022-11-18,Books,18.0,157644.0,8758.0,2023-12-18,1.0,4.0,No,7,At Risk
+C131,Emily Wilson,43.0,Male,Mumbai,2021-04-02,8.0,2022-05-22,Grocery,16.0,10242.0,640.12,2025-06-29,4.0,2.0,No,8,New
+C132,Dylan Santiago,25.0,Male,Hyderabad,2024-05-08,95.0,2024-07-28,Books,20.0,50471.0,2523.55,2024-06-15,3.0,5.0,Yes,7,Loyal
+C133,David Payne,43.0,Female,Delhi,2024-02-07,96.0,2025-01-05,Grocery,21.0,36159.0,1721.86,2024-07-28,4.0,1.0,Yes,7,At Risk
+C134,Nathan Anderson,50.0,Female,Bengaluru,2024-06-02,86.0,2024-09-09,Fashion,5.0,181158.0,36231.6,2025-02-03,3.0,5.0,Yes,6,New
+C135,Melanie Johnson,49.0,Female,Chennai,2022-01-28,51.0,2023-04-25,Electronics,23.0,132893.0,5777.96,2022-10-28,5.0,4.0,No,7,At Risk
+C136,Amanda Walker,46.0,Female,Bengaluru,2021-04-12,40.0,2023-08-27,Books,21.0,167105.0,7957.38,2023-06-13,5.0,3.0,No,7,Engaged
+C137,Arthur Chavez,61.0,Female,Chennai,2024-03-16,11.0,2025-02-14,Fashion,25.0,29869.0,1194.76,2024-04-30,4.0,1.0,Yes,7,New
+C138,Loretta Davis,64.0,Female,Chennai,2021-02-20,50.0,2024-11-06,Fashion,11.0,94822.0,8620.18,2023-03-17,1.0,4.0,Yes,7,Loyal
+C139,Olivia Gay,21.0,Male,Delhi,2022-06-26,40.0,2023-03-02,Books,14.0,159008.0,11357.71,2024-07-16,4.0,1.0,No,7,Engaged
+C140,William Brown,41.0,Female,Chennai,2024-11-20,59.0,2025-04-18,Grocery,8.0,179184.0,22398.0,2025-07-02,1.0,2.0,No,8,Engaged
+C141,Amber Vaughn,40.0,Male,Hyderabad,2024-10-18,31.0,2025-04-12,Home Decor,21.0,124291.0,5918.62,2024-12-19,2.0,3.0,Yes,7,New
+C142,Laura Evans,,,,2024-11-29,,2025-06-22,Home Decor,,,,2025-05-18,,,No,8,New
+C143,Tamara Johnson,58.0,Female,Pune,2021-03-23,7.0,2025-01-12,Grocery,20.0,123713.0,6185.65,2021-05-14,5.0,2.0,Yes,7,Engaged
+C144,Daniel Martinez,29.0,Female,Pune,2024-08-31,85.0,2024-10-12,Electronics,25.0,189107.0,7564.28,2024-12-20,0.0,5.0,No,7,New
+C145,Michael Manning,22.0,Male,Hyderabad,2023-11-15,23.0,2024-07-31,Home Decor,12.0,150306.0,12525.5,2024-08-16,3.0,5.0,Yes,7,Engaged
+C146,Erin Gibbs,49.0,Male,Bengaluru,2022-07-24,81.0,2023-06-05,Home Decor,18.0,55200.0,3066.67,2025-05-10,1.0,2.0,Yes,8,Engaged
+C147,Kerry Gonzalez,23.0,Male,Bengaluru,2021-11-17,82.0,2024-08-12,Electronics,4.0,197516.0,49379.0,2023-07-28,0.0,3.0,No,5,New
+C148,Abigail Sutton,36.0,Male,Chennai,2022-12-13,61.0,2023-05-06,Home Decor,12.0,126760.0,10563.33,2023-06-20,3.0,4.0,No,7,At Risk
+C149,Nicole Medina,58.0,Male,Hyderabad,2022-03-09,90.0,2024-06-05,Electronics,12.0,189608.0,15800.67,2024-12-18,1.0,3.0,No,7,Loyal
+C150,Mark Hall,64.0,Female,Mumbai,2021-11-23,82.0,2022-09-27,Books,24.0,45847.0,1910.29,2025-04-26,4.0,4.0,No,8,At Risk
